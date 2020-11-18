@@ -110,6 +110,12 @@ body {
   color: white;
 }
 
+header, footer {
+  height:auto;
+  width: 100%;
+  text-align: center;
+}
+
 .wrapper {
   /*add display:flex and set justify-content to space-between*/
   display:flex;
